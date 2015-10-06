@@ -1,3 +1,3 @@
 # Trabajo-Jake
-Tareas de jake
-Aqui se estaran subiendo las tareas de Jake
+En este repositorio se estaran subiendo todas las tareas que deje Jake.
+Saludos!
