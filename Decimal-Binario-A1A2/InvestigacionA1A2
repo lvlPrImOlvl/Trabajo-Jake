@@ -1,0 +1,15 @@
+El complemento A1 y A2 se usa para representar en su forma binario a algun numero, ya sea positivo o negativo.
+
+El Complemento A1:
+
+En este complemento se agrega un bit de signo:
+
+	0 -> Positivo
+	1 -> Negativo
+Si el numero decimal es positivo, se pone un 0 y la transformacion normal de decimal a binario.
+Si el numero decimal es negativo, se pone un 1 y al obtener la tranformacion decimal a binario, se intercambiaran
+	los 1's por los 0's y viceversa.
+
+El complemento A2:
+Este complemento se obtiene al sumar un 1 al bit menos significativo del numero binario a tranformar.
+
