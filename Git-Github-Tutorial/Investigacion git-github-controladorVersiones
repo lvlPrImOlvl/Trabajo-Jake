@@ -1,0 +1,19 @@
+¿Qué es git?
+
+Es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente. Wikipedia
+Git es un sistema distribuido de control de código fuente o SCM (en inglés Source Code Management). 
+Principales caracteristicas:
+
+    Auditoría del código: saber quién ha tocado qué y cuándo
+    Control sobre cómo ha cambiado nuestro proyecto con el paso del tiempo
+    Volver hacia atrás de una forma rápida
+    Control de versiones a través de etiquetas: versión 1.0, versión 1.0.1, versión 1.1, etc. Sabremos exactamente que había en cada una de ellas y las diferencias entre cualquiera de ellas dos
+    Seguridad: todas las estructuras internas de datos están firmadas con SHA1. No se puede cambiar el código sin que nos enteremos
+    Mejora nuestra capacidad de trabajar en equipo
+    Merging y branching extremadamente eficientes
+
+¿Qué es github?
+GitHub es una plataforma de desarrollo colaborativo de software para alojar proyectos utilizando el sistema de control de versiones Git. El código se almacena de forma pública, aunque también se puede hacer de forma privada, creando una cuenta de pago.
+
+¿Qué es un controlador de versiones?
+Se llama control de versiones a la gestión de los diversos cambios que se realizan sobre los elementos de algún producto o una configuración del mismo. Una versión, revisión o edición de un producto, es el estado en el que se encuentra el mismo en un momento dado de su desarrollo o modificación.
